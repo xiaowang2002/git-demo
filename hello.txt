@@ -14,3 +14,4 @@ hello Git! hello wzs!
 hello Git! hello wzs!
 hello Git! hello wzs!  master test
 hello Git! hello wzs! hot-fix test
+我重新编辑了这个文件
