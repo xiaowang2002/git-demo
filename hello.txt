@@ -12,5 +12,5 @@ hello Git! hello wzs!
 hello Git! hello wzs!
 hello Git! hello wzs!
 hello Git! hello wzs!
-hello Git! hello wzs!
+hello Git! hello wzs!  master test
 hello Git! hello wzs!
