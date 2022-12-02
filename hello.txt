@@ -13,4 +13,4 @@ hello Git! hello wzs!
 hello Git! hello wzs!
 hello Git! hello wzs!
 hello Git! hello wzs!
-hello Git! hello wzs!
+hello Git! hello wzs! hot-fix test
